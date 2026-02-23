@@ -5,3 +5,5 @@
 </h1>
 
 ![snake gif](https://github.com/sateeshyadav70/sateeshyadav70/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/sateeshyadav70/sateeshyadav70/output/github-contribution-grid-snake.svg)
