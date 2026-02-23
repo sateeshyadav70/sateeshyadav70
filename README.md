@@ -11,3 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Grinder;Building+Scalable+Projects;Future+Startup+Founder" />
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sateeshyadav70&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sateeshyadav70&layout=compact&theme=radical)
