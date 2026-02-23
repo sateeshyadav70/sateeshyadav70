@@ -15,3 +15,15 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sateeshyadav70&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sateeshyadav70&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sateeshyadav70&theme=radical)
+
+![3D Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sateeshyadav70&theme=github_dark)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sateeshyadav70&color=brightgreen)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=sateeshyadav70&theme=radical)
