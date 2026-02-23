@@ -5,3 +5,9 @@
 </h1>
 
 ![snake gif](https://raw.githubusercontent.com/sateeshyadav70/sateeshyadav70/output/github-contribution-grid-snake.svg)
+
+<h1 align="center">Hi 👋, I'm Sateesh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Grinder;Building+Scalable+Projects;Future+Startup+Founder" />
+</p>
